@@ -118,10 +118,6 @@ The application will open at `http://localhost:8501`
 | Import errors | Ensure all dependencies installed: `pip install -r requirements.txt` |
 
 ---
-## 👨‍💻 Author
 
-**Sabarish R** — Full-Stack AI Developer
-
-- LinkedIn: [Sabarish R](https://www.linkedin.com/in/sabarishr08/)
 
 ---
